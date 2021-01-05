@@ -6,4 +6,4 @@ The dry atmosphere of Mars will be good for the Mummy.
 
 The lack of water will not make the Creature happy.
 
-This line added to the owner's copy
+This is a resolved conflict
